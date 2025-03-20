@@ -79,12 +79,6 @@ This project focuses on generating floor plans from textual descriptions. It con
 | PlanBrainer  | [Github Repo](https://github.com/pruthvik-sheth/PlanBrainer) | 
 
 
-### Contributors
-
-| Name | Role | Contact Information |
-|------|------|---------------------|
-| J.Kanishkha | Machine Learning Engineer | [Email](mailto:kanishka@xneuronz.com) |
-
 
 ### Contributing
 
